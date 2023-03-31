@@ -1,0 +1,2 @@
+packages: deriving-via-bug.cabal
+with-compiler: ghc-9.2.7
